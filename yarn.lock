@@ -9735,7 +9735,7 @@ relateurl@0.2.x:
   version "0.2.7"
   resolved "https://registry.yarnpkg.com/relateurl/-/relateurl-0.2.7.tgz#54dbf377e51440aca90a4cd274600d3ff2d888a9"
 
-reload@2.4.0, reload@^2.2.2:
+reload@^2.2.2:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/reload/-/reload-2.4.0.tgz#7cdab8456c905e5d13b135544233ea1df28c2c3d"
   integrity sha512-sNlfGgQbysnqYuj15/aHvDlIBpDCI73cIdx5gphlAZ0yKvW/hrMhqGG4/MYPpf3jQ6wJntOqzl/6TTantFp61g==
@@ -10199,7 +10199,7 @@ set-immediate-shim@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/set-immediate-shim/-/set-immediate-shim-1.0.1.tgz#4b2b1b27eb808a9f8dcc481a58e5e56f599f3f61"
 
-set-value@2.0.1, set-value@^2.0.0, set-value@^2.0.1:
+set-value@^2.0.0, set-value@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/set-value/-/set-value-2.0.1.tgz#a18d40530e6f07de4228c7defe4227af8cad005b"
   integrity sha512-JxHc1weCN68wRY0fhCoXpyK55m/XPHafOmK4UWD7m2CI14GMcFypt4w/0+NV5f/ZMby2F6S2wwA7fgynh9gWSw==
@@ -11156,7 +11156,7 @@ unified@^6.1.5:
     vfile "^2.0.0"
     x-is-string "^0.1.0"
 
-union-value@1.0.1, union-value@^1.0.0:
+union-value@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/union-value/-/union-value-1.0.1.tgz#0b6fe7b835aecda61c6ea4d4f02c14221e109847"
   integrity sha512-tJfXmxMeWYnczCVs7XAEvIV7ieppALdyepWMkHkwciRpZraG/xwT+s2JN8+pr1+8jCRf80FFzvr+MpQeeoF4Xg==
@@ -11280,8 +11280,9 @@ uri-js@^4.2.2:
     punycode "^2.1.0"
 
 urijs@^1.16.1:
-  version "1.19.1"
-  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.1.tgz#5b0ff530c0cbde8386f6342235ba5ca6e995d25a"
+  version "1.19.8"
+  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.8.tgz#ee0407a18528934d3c383e691912f47043a58feb"
+  integrity sha512-iIXHrjomQ0ZCuDRy44wRbyTZVnfVNLVo3Ksz1yxNyE5wV1IDZW2S5Jszy45DTlw/UdsnRT7DyDhIz7Gy+vJumw==
 
 urix@^0.1.0:
   version "0.1.0"
